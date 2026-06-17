@@ -28,3 +28,16 @@ Ensure you have the following files in your local directory:
 Make sure you have Python installed, then install the required libraries using your terminal:
 ```bash
 pip install streamlit pandas numpy
+
+### 3. Disclaimer
+This project is solely for my own practices and upskilling.
+
+## ⚖️ Data Attribution & Acknowledgements
+
+The data used in this application was originally obtained from **Kaggle**. 
+
+* **Dataset Title:** Islamic Pilgrimage 2000-2026 Dataset
+* **Source Platform:** [Kaggle](https://www.kaggle.com)
+* **Dataset URL:** [[Direct Link to Dataset Page](https://www.kaggle.com/datasets/muhammadwaqas023/islamic-pilgrimage-dataset-2000-2026/data)
+
+*Thank you to the original creator for publishing and maintaining this dataset for public educational use.*
