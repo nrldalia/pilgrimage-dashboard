@@ -7,10 +7,13 @@ Live App Link: pilgrimage-dashboard-bmk4jidvdvsjtnpe25m3yb.streamlit.app
 ---
 
 ## 🚀 Features
-Macro KPIs: Real-time summarized view of total pilgrim volumes, trillions in economic impact, average satisfaction scores, and visa approval success rates.
-Interactive Dynamic Filtering:** Sift through data instantly by adjusting the year range, selecting specific countries, or picking targeted pilgrimage types via the sidebar.
-Trend Analysis Tabs:** Visually structured tracking tabs separating macro-growth line charts from regional bar charts and granular financial demographics.
-Raw Data Explorer:** Interactive dataset table view at the bottom of the page that filters dynamically based on user controls.
+**Macro KPIs:** Real-time summarized view of total pilgrim volumes, trillions in economic impact, average satisfaction scores, and visa approval success rates.
+
+**Interactive Dynamic Filtering:** Sift through data instantly by adjusting the year range, selecting specific countries, or picking targeted pilgrimage types via the sidebar.
+
+**Trend Analysis Tabs:** Visually structured tracking tabs separating macro-growth line charts from regional bar charts and granular financial demographics.
+
+**Raw Data Explorer:** Interactive dataset table view at the bottom of the page that filters dynamically based on user controls.
 
 ---
 
